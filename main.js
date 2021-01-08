@@ -51,5 +51,10 @@ switch (season) {
 
         break;
 
+    default:
+
+        alert("You Didnt Enter A Season Name");
+
+        break;
 
 }
